@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5971'
     url: http://www.gutenberg.org/2009/agents/5971
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25256#Traditions-of-Lancashire-Volume-2
 gutenberg_issued: '2008-04-30'
 gutenberg_type: Text
 identifiers:
